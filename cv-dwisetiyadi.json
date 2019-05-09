@@ -1,0 +1,251 @@
+{
+  "selectedTemplate": 7,
+  "headings": {
+    "skills": "Skills",
+    "projects": "Projects",
+    "awards": "Awards",
+    "work": "Work Experience"
+  },
+  "basics": {
+    "name": "Dwi Setiyadi",
+    "email": "dwi.setiyadi@gmail.com",
+    "phone": "081399277794",
+    "location": {
+      "address": "Jakarta"
+    },
+    "website": "https://www.linkedin.com/in/dwi-setiyadi-70783b37"
+  },
+  "education": [
+    {
+      "institution": "",
+      "location": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "gpa": ""
+    }
+  ],
+  "work": [
+    {
+      "company": "Prudential Indonesia",
+      "location": "Jakarta",
+      "position": "Engineer Manager (Outsource)",
+      "website": "http://www.prudential.co.id",
+      "highlights": [
+        "Reporting directly to PRUforce Tribe Leader",
+        "Manage three teams",
+        "Designed mobile application framework",
+        "Designed and implemented CI (Continuous Integration) / CD (Continuous Delivery)",
+        "Coordinating with Product Manager, Lead Designer, Scrum Master, Developer Leader, and Tribe Leader, to ensure correct implementation of features",
+        "Maintain code quality across code base by performing code review",
+        "Build and publish iOS & Android to App Store and Play Store"
+      ],
+      "startDate": "Jan 2019",
+      "endDate": "Present"
+    },
+    {
+      "company": "Sleekr.co",
+      "location": "Jakarta",
+      "position": "Lead Mobile Software Engineer",
+      "website": "http://www.sleekr.co",
+      "highlights": [
+        "Reporting directly to CTO",
+        "Manage four engineers",
+        "Designed mobile application framework",
+        "Designed and implemented CI (Continuous Integration) / CD (Continuous Delivery)",
+        "Coordinating with Product Manager, Lead Designer, Scrum Master, and CTO, to ensure correct implementation of features",
+        "Maintain code quality across code base by performing code review",
+        "Build and publish iOS & Android to App Store and Play Store"
+      ],
+      "startDate": "Feb 2018",
+      "endDate": "Desember 2018"
+    },
+    {
+      "highlights": [
+        "Converted PNG mockup to HTML + CSS + JS",
+        "Designed and implemented asynchronous client side Flight Availability Search",
+        "Designed and implemented frontend framework"
+      ],
+      "company": "Reservasi.com",
+      "position": "Senior Frontend Engineer",
+      "location": "Jakarta",
+      "startDate": "May 2017",
+      "endDate": "Jan 2018"
+    },
+    {
+      "highlights": [
+        "Designed Architecture"
+      ],
+      "company": "Travelnego.com",
+      "position": "VP Software Engineer",
+      "location": "BSD City Tangerang Selatan",
+      "startDate": "Jan 2016",
+      "endDate": "Feb 2017"
+    },
+    {
+      "highlights": [
+        "Develop API as a web service for Android App",
+        "Create Content Management System for supply articles content"
+      ],
+      "company": "BaBe (Baca Berita)",
+      "position": "Senior Software Engineer",
+      "location": "Jakarta",
+      "startDate": "May 2014",
+      "endDate": "Feb 2015"
+    },
+    {
+      "highlights": [
+        "Coding backend system for apps, using Node.js, PHP, and others"
+      ],
+      "company": "Gushcloud",
+      "position": "Senior Software Engineer",
+      "location": "Jakarta",
+      "startDate": "Mar 2014",
+      "endDate": "May 2014"
+    },
+    {
+      "highlights": [
+        "Web consulting and engineering"
+      ],
+      "company": "Octovate Group",
+      "position": "Senior Software Engineer",
+      "location": "Jakarta",
+      "startDate": "Nov 2013",
+      "endDate": "Mar 2014"
+    },
+    {
+      "highlights": [
+        "Web and Modern Mobile Device technology consulting and engineering"
+      ],
+      "company": "Merah Putih Inc",
+      "position": "System Analyst",
+      "location": "Jakarta",
+      "startDate": "Sep 2010",
+      "endDate": "Nov 2013"
+    },
+    {
+      "highlights": [
+        "Made mainstream news portal in Indonesia"
+      ],
+      "company": "Okezone.com",
+      "position": "Software Engineer",
+      "location": "Jakarta",
+      "startDate": "Sep 2008",
+      "endDate": "Jan 2010"
+    },
+    {
+      "highlights": [
+        "Create website company profiles",
+        "Create community portal website"
+      ],
+      "company": "PT Visi Global Interaktif",
+      "position": "Software Engineer",
+      "location": "Jakarta",
+      "startDate": "Jul 2007",
+      "endDate": "Aug 2008"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Proficient In",
+      "level": "",
+      "keywords": [
+        "Javascript",
+        "Node.js",
+        "React",
+        "React Native",
+        "Redux",
+        "Jquery",
+        "MongoDB",
+        "MySQL",
+        "Redis",
+        "Arduino",
+        "PHP",
+        "Ruby on Rails",
+        "Tech Analytic"
+      ]
+    },
+    {
+      "keywords": [
+        "SCRUM",
+        "Docker",
+        "DevOps",
+        "IOT (Internet of Things)",
+        "Python"
+      ],
+      "name": "Familiar with"
+    },
+    {
+      "keywords": [
+        "Project Management"
+      ],
+      "name": "Other Skills"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Okezone.com",
+      "keywords": [
+        "PHP",
+        "MySQL",
+        "Python"
+      ],
+      "url": "http://www.okezone.com",
+      "description": "Indonesian news portal, deployed version between 2008 - 2010."
+    },
+    {
+      "keywords": [
+        "PHP",
+        "MySQL"
+      ],
+      "name": "RCTI dot TV",
+      "description": "Website company profile for the first and largest private TV in Indonesia, deployed version between 2008 - 2010.",
+      "url": "http://www.rcti.tv"
+    },
+    {
+      "keywords": [
+        "PHP",
+        "MySQL"
+      ],
+      "name": "Bolalob",
+      "description": "Football and Futsal news portal",
+      "url": "http://www.bolalob.com"
+    },
+    {
+      "keywords": [
+        "React Native",
+        "PHP",
+        "PostgreeSQL"
+      ],
+      "url": "https://play.google.com/store/apps/details?id=co.sleekr.grow",
+      "name": "GROW - Accounting & Invoice Online for Android"
+    },
+    {
+      "keywords": [
+        "React Native",
+        "PHP",
+        "PostgreeSQL"
+      ],
+      "name": "GROW - Accounting & Invoice Online for iOS",
+      "url": "https://itunes.apple.com/id/app/grow-accounting-invoice/id1422577055"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Sparx Up Award 2010 Best Game Application",
+      "date": "Sep - Dec 2010",
+      "awarder": "PT Merah Cipta Media (Djarum's Sister Company)",
+      "summary": "Recognized for creating awesome web-based game"
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
