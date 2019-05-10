@@ -1,4 +1,10 @@
-I made this document to help anyone, who will work or connect with me, to knowing me better. [Attached my resume/CV](https://github.com/dwisetiyadi/cv/raw/master/cv-dwisetiyadi.pdf).
+I made this document to help anyone, who will work or connect with me, to knowing me better.
+
+## Resume/CV:
+* [PDF](https://github.com/dwisetiyadi/cv/raw/master/cv-dwisetiyadi.pdf)
+* [LaTex](https://github.com/dwisetiyadi/cv/raw/master/cv-dwisetiyadi-latex.zip)
+* [Json](https://raw.githubusercontent.com/dwisetiyadi/cv/master/cv-dwisetiyadi.json)
+* [All filetypes](https://github.com/dwisetiyadi/cv/archive/master.zip)
 
 Last updated: May 10, 2019
 
