@@ -1,4 +1,4 @@
-I made this document to help anyone, who will work or connect with me, to knowing me better. Attached my resume/CV.
+I made this document to help anyone, who will work or connect with me, to knowing me better. [Attached my resume/CV](https://github.com/dwisetiyadi/cv/raw/master/cv-dwisetiyadi.pdf).
 
 Last updated: May 10, 2019
 
