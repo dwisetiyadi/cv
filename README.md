@@ -21,7 +21,7 @@ I made this document to help anyone, who will work or connect with me, to knowin
 * Straight to the point.
 * Research before action.
 * Use imagination to solve problems.
-* Comply with the guidelines and conventions when coding.
+* Comply with the guidelines and conventions when building  softwares.
 * Embrace changes and ideas.
 * Value orientation.
 * Free will.
