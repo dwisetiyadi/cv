@@ -50,3 +50,7 @@ I made this document to help anyone, who will work or connect with me, to knowin
 
 ## What people misunderstand about me
 * People think I'm temperamental, but I'm not. The parameter I'm angry is when I don't want to talk and aphatetic (when I don't care anymore).
+
+## Latest Projects
+* [Telkom Corporate University](https://telkomcorpu.id/)
+* [Telkom Amoeba](https://digitalamoeba.id/)
