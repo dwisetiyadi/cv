@@ -8,7 +8,7 @@ I made this document to help anyone, who will work or connect with me, to knowin
 * I live in Jatiasih, Kota **Bekasi**, Jawa Barat, Indonesia.
 * My expertise is **software engineering**, with experience since 2004.
 * I have no religion in a programming language. If asked which language I will use in working on the project, I will choose **the most productive** and according to **the needs of the project**.
-* I am also interested in embedded programming, mini systems, microcontrollers, **IoT**, **robotics**, and 3D Printing.
+* I am also interested in embedded programming, mini systems, microcontrollers, **IoT**, **robotics** (mechatronics), and 3D Printing ([tridipi.id](https://www.tridipi.id)).
 * I like to **discuss** and **sharing** my knowledge.
 * I like **traveling**.
 * I like **automotive**.
@@ -21,7 +21,7 @@ I made this document to help anyone, who will work or connect with me, to knowin
 * Straight to the point.
 * Research before action.
 * Use imagination to solve problems.
-* Comply with the guidelines and conventions when building  softwares.
+* Comply with the guidelines and conventions when building any technologies.
 * Embrace changes and ideas.
 * Value orientation.
 * Free will.
