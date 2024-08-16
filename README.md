@@ -4,6 +4,9 @@ I made this document to help anyone, who will work or connect with me, to knowin
 * [PDF](https://github.com/dwisetiyadi/cv/raw/master/cv-dwisetiyadi-2024.pdf)
 
 ## About Me
+
+![alt text](https://github.com/dwisetiyadi/cv/blob/master/dwi-setiyadi-sosmed-bg.png?raw=true)
+
 * My full name is **Dwi Setiyadi**.
 * I live in Kota **Bekasi**, Jawa Barat, Indonesia.
 * My expertise is **software engineering**, with experience since 2004.
