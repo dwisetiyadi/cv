@@ -5,7 +5,7 @@ I made this document to help anyone, who will work or connect with me, to knowin
 
 ## About Me
 
-![alt text](https://github.com/dwisetiyadi/cv/blob/master/dwi-setiyadi-sosmed-bg.png?raw=true)
+<img src="https://github.com/dwisetiyadi/cv/blob/master/dwi-setiyadi-sosmed-bg.png?raw=true" width="250">
 
 * My full name is **Dwi Setiyadi**.
 * I live in Kota **Bekasi**, Jawa Barat, Indonesia.
